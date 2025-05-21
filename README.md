@@ -59,7 +59,7 @@ Interfaz responsiva con Bootstrap y Blade.
 
 1. **Clona el repositorio o descomprime el ZIP**
     ```bash
-    https://github.com/black-cat-17/mcc.mi.clinica.control.git
+    https://github.com/black-cat-17/MCC.git
     cd tu-repo
     ```
 
@@ -121,5 +121,4 @@ El archivo `mcc10.sql` contiene la estructura y datos necesarios. Importe este a
 
 ---
 ````
-# mcc.mi.clinica.control
-# mcc.mi.clinica.control
+# [https://github.com/black-cat-17/MCC.git]
